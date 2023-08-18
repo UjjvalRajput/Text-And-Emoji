@@ -22,7 +22,7 @@ Enter the correct password in the "Type a password" field.
 Click the "Decrypt Text" button to reveal the original message.
 
 # Getting Started
-Simply visit https://your-txtmoji-website-url and start encrypting and decrypting messages with emojis.
+Simply visit ujjvalrajput.github.io/TextAndEmoji/ and start encrypting and decrypting messages with emojis.
 
 # Credits
 This project is an idea of Deepankar Bhade. Please feel free to check him out at https://dpnkr.in/. This project was cloned for educational purposes only.
