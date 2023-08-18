@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Link to external stylesheet -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Main container -->
+    <div id="main">
+        <!-- Header -->
+        <h1>Text <span><img src="arrow.png" alt=""></span> Emojis</h1>
+        <!-- Encryption and Decryption tabs container -->
+        <div id="endec-div">
+            <!-- Encrypt Text tab -->
+            <h3 id="enc-btn"><span><img src="lock.png" alt=""></span> Encrypt Text</h3>
+            <!-- Decrypt Emojis tab -->
+            <h3 id="dec-btn"><span><img src="unlock.png" alt=""></span> Decrypt Emojis</h3>
+        </div>
+        <!-- Encryption section -->
+        <div id="encryption">
+            <!-- Step 1: Type a message -->
+            <h5>1. Type a message</h5>
+            <textarea placeholder="Yup! Right here friend" name="" id="textmsg" cols="30" rows="10"></textarea>
+            <!-- Step 2: Set a password -->
+            <h5>2. Set a password</h5>
+            <input placeholder="Could be literally anything" type="password" name="" id="password">
+            <!-- Step 3: Encrypt message -->
+            <h5>3. Encrypt message</h5>
+            <button id="encrypt-btn"><span><img src="./lock.png" alt=""></span>Encrypt Text</button>
+        </div>
+        <!-- Decryption section -->
+        <div id="decryption">
+            <!-- Step 1: Paste encrypted message -->
+            <h5>1. Paste encrypted message</h5>
+            <textarea placeholder="Give me those emojis, friend" name="" id="emojimsg" cols="30" rows="10"></textarea>
+            <!-- Step 2: Type a password -->
+            <h5>2. Type a password</h5>
+            <input placeholder="Your password right here, please" type="password" name="" id="finalpassword">
+            <!-- Step 3: Decrypt Emojis -->
+            <h5>3. Decrypt Emojis</h5>
+            <button id="decrypt-btn"><span><img src="./unlock.png" alt=""></span>Decrypt Text</button>
+        </div>
+        <!-- Result container -->
+        <div id="result">
+            <!-- Result content will be displayed here -->
+        </div>
+    </div>
+    <!-- Link to external JavaScript file -->
+    <script src="script.js"></script>
+</body>
+
+</html>
