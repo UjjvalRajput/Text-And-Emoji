@@ -1,4 +1,4 @@
-# TextAndEmoji: Encrypt and Decrypt Messages Using Emojis
+# Text-And-Emoji: Encrypt and Decrypt Messages Using Emojis
 A simple web application that allows you to encrypt and decrypt text messages using emojis. You can convert your messages into a fun and creative format of emojis, adding an extra layer of privacy to your conversations. This project was inspired by the concept of encoding messages in a playful and unique way, making communication both secure and entertaining.
 
 # Features
