@@ -22,7 +22,7 @@ Enter the correct password in the "Type a password" field.
 Click the "Decrypt Text" button to reveal the original message.
 
 # Getting Started
-Simply visit https://ujjvalrajput.github.io/TextAndEmoji/ and start encrypting and decrypting messages with emojis.
+Simply visit https://ujjvalrajput.github.io/Text-And-Emoji/ and start encrypting and decrypting messages with emojis.
 
 # Acknowledgments & Attribution
 This project was inspired by the innovative thinking of Deepankar Bhade. For a more profound insight into his work, you are encouraged to explore his profile: https://dpnkr.in/. The conception of this project was undertaken with educational intentions only, serving as a platform to hone and elevate my expertise in HTML, CSS, and vanilla JavaScript.
