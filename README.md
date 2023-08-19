@@ -24,5 +24,5 @@ Click the "Decrypt Text" button to reveal the original message.
 # Getting Started
 Simply visit https://ujjvalrajput.github.io/TextAndEmoji/ and start encrypting and decrypting messages with emojis.
 
-# Credits & Other
-This project is an idea of Deepankar Bhade. Please feel free to check him out at https://dpnkr.in/. This project was cloned for educational purposes only. This project was made to practice my HTML, CSS, and Javascipt skills.
+# Acknowledgments & Attribution
+This project was inspired by the innovative thinking of Deepankar Bhade. For a more profound insight into his work, you're encouraged to explore his profile: https://dpnkr.in/. The conception of this project was undertaken with educational intentions only, serving as a platform to hone and elevate my expertise in HTML, CSS, and vanilla JavaScript.
